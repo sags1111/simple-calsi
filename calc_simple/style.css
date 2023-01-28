@@ -1,0 +1,29 @@
+#calculator {
+    width: 110%;
+    height: 700%;
+    min-width: 700px;
+    max-width: 200px;
+    border: 2px solid blue;
+    margin: 60px;
+    padding: 10px;
+}
+
+#display-contanier {
+    font-size: 2.8rem;
+    color: black;
+    width: 100%;
+    height: 20%;
+    border: 2px solid black;
+    margin: 60px;
+    padding: 50px;
+}
+
+.button {
+    font-size: 1.8rem;
+    width: 50%;
+    height: 20%;
+    border: 4px solid black;
+    display: inline-block;
+    margin: 2px;
+    padding: 2px;
+}
